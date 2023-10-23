@@ -1,0 +1,12 @@
+{
+    "users": ["1136808697763467324", "1153469966385950730", "1161958898320822292","945139975643627560","863397266067685386","1039619864286986270","741211030427926629","1068176714573811765","999762981212672091","1073726300902142032","924313118723682354","828705072066199594"],
+    "token": ".GtR77v.NTeaGspTCcjCyNbUqCBLUGIXnRumV3hQqsELIY",
+    "secret": "",
+    "id": "",
+    "redirect": "http://127.0.0.1:5000/done",
+    "api_endpoint": "https://canary.discordapp.com/api/v7",
+    "auth_url" : "https://discord.com/api/oauth2/authorize?client_id=1164520468179599494&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fdone&response_type=code&scope=identify%20guilds.join",
+    "logs" : ["https://discord.com/api/webhooks/1164527477742383185/D10z6TU07RB-flQWzlxKjY5RDEisya4StyOiAcC67L7ijnE0Rk87yF9pMaMZ-sYJU-LU","https://discord.com/api/webhooks/1164527629714595841/uErBMtnd3gbcMQhPr2VLEnoUM9CknoB_k2S0Ocnk9yUEFVvdb4nsL626a_pWvQNzr7LP","https://discord.com/api/webhooks/1164527719225229322/R2Ps_rUeJCKsnnvuzGn6rSksod8FCnndZcAfgs1o3yFBopGAER7TIbNv1E9iJjMa2k6E"],
+    "fuck_api" : ["https://canary.discord.com/api/v8","https://canary.discord.com/api/v7","https://canary.discordapp.com/api/v8","https://canary.discordapp.com/api/v9"]
+  }
+  
